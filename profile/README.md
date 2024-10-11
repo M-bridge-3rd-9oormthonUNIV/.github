@@ -81,12 +81,18 @@
 
 **IntelliJ IDEA** : MainApplication Run 버튼 실행 or 아래 커맨드를 통해 빌드 & 실행
 ```
-
+git clone https://github.com/M-bridge-3rd-9oormthonUNIV/Back.git
+cd Back
+./gradlew build
+./gradlew bootRun
 ```
 
 ### Frontend Requirements
 - **Node.js** : 20.14.0
 - **npm** : 10.9.0
 ```
-
+git clone https://github.com/M-bridge-3rd-9oormthonUNIV/Front.git
+cd Front
+npm install
+npm start
 ```
