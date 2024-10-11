@@ -71,6 +71,7 @@
 
 ### Communication
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 <br/>
 
 ## 🤍 시작 가이드
