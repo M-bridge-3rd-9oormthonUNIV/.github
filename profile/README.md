@@ -28,7 +28,7 @@
 |<img src="https://avatars.githubusercontent.com/u/130573661?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/73579002?v=4" width="150" height="150"/>|
 |:-:|:-:|
 |박지윤|유소희|
-|모바일소프트웨어학과|서비스디자인공학|
+|모바일소프트웨어학과|서비스디자인공학과|
 |[밧지](https://github.com/zzizi6)|[Sohee Yoo](https://github.com/knv127)|
 
 ### Backend
@@ -41,6 +41,25 @@
 ---
 
 ## ⚒️ Stacks
+### Design
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
+### Environment
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+### Frontend
+
+
+### Backend
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Cloud%20AWS-6DB33F?style=for-the-badge&logo=spring-cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+
+### Communication
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 ## 시작 가이드
