@@ -37,8 +37,7 @@
 |이윤정|유다영|
 |전자공학과|소프트웨어학부|
 |[E2YunJeong](https://github.com/E2YunJeong)|[DayoungYu](https://github.com/judyzero)|
-
----
+<br/>
 
 ## ⚒️ Stacks
 ### Design
@@ -70,9 +69,24 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 <img src="https://img.shields.io/badge/AWS-Elastic%20Beanstalk-FF9900?logo=amazon-aws&logoColor=white" height="28">
 
-
-
 ### Communication
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<br/>
 
-## 시작 가이드
+## 🤍 시작 가이드
+### Backend Requirements
+- **spring Framework** : 6.1.13
+- **JDK** : 21
+- **Build Tool** : Gradle
+
+**IntelliJ IDEA** : MainApplication Run 버튼 실행 or 아래 커맨드를 통해 빌드 & 실행
+```
+
+```
+
+### Frontend Requirements
+- **Node.js** : 20.14.0
+- **npm** : 10.9.0
+```
+
+```
