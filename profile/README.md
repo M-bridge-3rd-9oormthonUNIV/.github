@@ -1,5 +1,8 @@
 # 국경을 넘는 음악 가사 번역 서비스, 엠브릿지(M-Bridge)
-<img src="https://github.com/user-attachments/assets/9c8a98c1-f745-4163-ab26-10fdb23834f0" width="800" />
+<img src="https://github.com/user-attachments/assets/9c8a98c1-f745-4163-ab26-10fdb23834f0" width="800" /><br/>
+생성형 AI기술을 활용하여 음악 재생, 가사 조회, 가사 번역을 하나의 플랫폼에서 해결 가능한 음악 가사 번역 서비스
+
+<br/>
 
 ## 🎵 About Our Project
 >**개발 기간** : 2024.09.14 ~ 2024.10.11
